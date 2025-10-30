@@ -1,16 +1,46 @@
-## Hi there 👋
+![Raj Budhathoki Banner](banner.png)
 
-<!--
-**Razz0147/Razz0147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Raj Budhathoki
 
-Here are some ideas to get you started:
+🎓 Computer Science Student | 💻 Passionate about Software, AI & Innovation  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 About Me
+- 🎓 Graduating in Computer Science (Dec 2025)
+- 🌱 Currently learning: Data Science, Machine Learning, and Web Development
+- 🔍 Interested in NLP, Data Visualization & Backend Systems
+- ✉️ Reach me at: [LinkedIn](https://linkedin.com/in/raj-budhathoki-0871392a2)
+
+---
+
+### ⚙️ Tech Stack
+`Python` • `C#` • `Java` • `Node.js` • `SQL` • `Unity` • `Pandas` • `NumPy` • `React`
+
+---
+
+### 🧩 Featured Projects
+| Project | Description | Tech |
+|----------|--------------|------|
+| 🐱 **Chasing Cats Game** | A fun Unity 2D project with moving opponents and cats. | Unity, C# |
+| 📊 **School Data Dashboard** | Interactive data analysis dashboard built for a small school. | Python, Pandas, Matplotlib |
+| 🧮 **DSA Visualizer** | Web app to visualize data structure algorithms. | JS, React |
+
+---
+
+### 📚 Currently Learning
+- Building ML models using **scikit-learn** and **TensorFlow**
+- Creating data dashboards with **Streamlit** and **Power BI**
+- Working with **REST APIs** and **database design**
+- Strengthening algorithms & problem-solving (LeetCode / HackerRank)
+
+---
+
+### 💼 Resume & Portfolio
+📄 [View My Resume (Google Drive)](https://drive.google.com/file/d/1PvFLNbg-qNexefI6PXZpOphKh0cnTrAE/view?usp=sharing)  
+🌐 [My LinkedIn](https://linkedin.com/in/raj-budhathoki-0871392a2)  
+💻 [GitHub Projects](https://github.com/Razz0147)
+
+---
+
+⭐️ _“Keep building, keep learning — small commits lead to big milestones!”_
