@@ -1,5 +1,3 @@
-![Raj Budhathoki Banner](banner.png)
-
 # 👋 Hi, I'm Raj Budhathoki
 
 🎓 Computer Science Student | 💻 Passionate about Software, AI & Innovation  
