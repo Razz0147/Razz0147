@@ -35,7 +35,7 @@
 ---
 
 ### 💼 Resume & Portfolio
-📄 [View My Resume (Google Drive)](https://drive.google.com/file/d/1PvFLNbg-qNexefI6PXZpOphKh0cnTrAE/view?usp=sharing)  
+📄 [View My Resume (Google Drive)](https://drive.google.com/file/d/1giAXpv2tcVvPJV3NyU-dBLEj4jpwYhKC/view?usp=drive_link)  
 🌐 [My LinkedIn](https://linkedin.com/in/raj-budhathoki-0871392a2)  
 💻 [GitHub Projects](https://github.com/Razz0147)
 
