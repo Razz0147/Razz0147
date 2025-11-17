@@ -21,8 +21,8 @@
 | Project | Description | Tech |
 |----------|--------------|------|
 | 🐱 **Chasing Cats Game** | A fun Unity 2D project with moving opponents and cats. | Unity, C# |
-| 📊 **School Data Dashboard** | Interactive data analysis dashboard built for a small school. | Python, Pandas, Matplotlib |
-| 🧮 **DSA Visualizer** | Web app to visualize data structure algorithms. | JS, React |
+| **Self-Driving Car** – Built an autonomous vehicle simulation using Python and OpenCV, featuring real-time lane detection, obstacle handling, and path-following behavior.
+| **Ext2 File System Explorer** – Developed a C++ command-line tool to parse VirtualBox VDI images, navigate Ext2 structures, and transfer files through low-level filesystem analysis.
 
 ---
 
