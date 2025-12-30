@@ -91,7 +91,7 @@
 ## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/rbudhathoki01?theme=dark&font=Fira%20Code&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/rbudhathoki007?theme=dark&font=Fira%20Code&ext=heatmap" />
 </p>
 
 ---
