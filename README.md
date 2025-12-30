@@ -15,7 +15,7 @@
   <a href="https://github.com/Razz0147" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Razz0147-181717?logo=github&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/rbudhathoki01/" target="_blank">
+  <a href="https://leetcode.com/u/rbudhathoki007/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-rbudhathoki007-FFA116?logo=leetcode&logoColor=black" />
   </a>
 </p>
