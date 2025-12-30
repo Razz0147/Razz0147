@@ -5,14 +5,18 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/raj-budhathoki">
+  <img src="https://komarev.com/ghpvc/?username=Razz0147&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/raj-budhathoki-0871392a2/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/Razz0147">
+  <a href="https://github.com/Razz0147" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Razz0147-181717?logo=github&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/rbudhathoki01/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?logo=leetcode&logoColor=black" />
+  <a href="https://leetcode.com/u/rbudhathoki01/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-rbudhathoki01-FFA116?logo=leetcode&logoColor=black" />
   </a>
 </p>
 
@@ -69,7 +73,7 @@
 **Tech:** JavaScript, Computer Vision
 
 ### 🗂️ Ext2 File System Explorer
-- C++ CLI tool to parse **VirtualBox VDI images**  
+- C++ command-line tool to parse **VirtualBox VDI images**  
 - Inode traversal, directory navigation, and file operations  
 **Tech:** C++
 
@@ -95,7 +99,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Razz0147&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Razz0147&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
   <img src="https://streak-stats.demolab.com?user=Razz0147&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
@@ -104,7 +108,7 @@
 ## 💼 Resume & Portfolio
 
 📄 **Resume:** (https://drive.google.com/file/d/1giAXpv2tcVvPJV3NyU-dBLEj4jpwYhKC/view)  
-🌐 **LinkedIn:** https://www.linkedin.com/in/raj-budhathoki  
+🌐 **LinkedIn:** https://www.linkedin.com/in/raj-budhathoki-0871392a2/  
 💻 **GitHub:** https://github.com/Razz0147  
 🧠 **LeetCode:** https://leetcode.com/u/rbudhathoki01/
 
