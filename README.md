@@ -98,8 +98,8 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Razz0147&theme=tokyonight)
-streak-stats.demolab.com
+![GitHub Streak](https://streak-stats.demolab.com/?user=Razz0147&theme=tokyonight)
+
 
 ## 💼 Resume & Portfolio
 
