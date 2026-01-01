@@ -98,12 +98,8 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Razz0147&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
-  <img src="https://streak-stats.demolab.com?user=Razz0147&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
+![GitHub Streak](https://streak-stats.demolab.com?user=Razz0147&theme=tokyonight)
+streak-stats.demolab.com
 
 ## 💼 Resume & Portfolio
 
