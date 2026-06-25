@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raj Budhathoki</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Computer+Science+Student+(Dec+2025);Full-Stack+Developer;AI+%26+Data+Science+Enthusiast;Problem+Solver+%26+Builder" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Computer+Science+Student+;Full-Stack+Developer;AI+%26+Data+Science+Enthusiast;Problem+Solver+%26+Builder" />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ## 🧠 About Me
 
-🎓 **Computer Science Student**, graduating **December 2025**  
+🎓 **Computer Science Student** 
 🌱 Currently learning **Data Science, Machine Learning & Web Development**  
 🔍 Interested in **NLP, Data Visualization & Backend Systems**  
 💡 I enjoy building things that actually work — from low-level systems to full-stack apps  
@@ -112,6 +112,7 @@
 🌐 **LinkedIn:** https://www.linkedin.com/in/raj-budhathoki-0871392a2/  
 💻 **GitHub:** https://github.com/Razz0147  
 🧠 **LeetCode:** https://leetcode.com/u/rbudhathoki007/
+🧠 **Portfolio:** https://rajbudhathoki.netlify.app/
 
 ---
 
