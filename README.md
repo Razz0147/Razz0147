@@ -108,7 +108,7 @@
 
 ## 💼 Resume & Portfolio
 
-📄 **Resume:** (https://drive.google.com/file/d/1giAXpv2tcVvPJV3NyU-dBLEj4jpwYhKC/view)  
+📄 **Resume:** (https://drive.google.com/file/d/1UJcLyhsF1cvIPXoiYAvJAq2dJFENDsAR/view?usp=sharing)  
 🌐 **LinkedIn:** https://www.linkedin.com/in/raj-budhathoki-0871392a2/  
 💻 **GitHub:** https://github.com/Razz0147  
 🧠 **LeetCode:** https://leetcode.com/u/rbudhathoki007/
