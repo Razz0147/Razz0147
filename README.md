@@ -88,14 +88,6 @@
 
 ---
 
-## 🧠 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/rbudhathoki007?theme=dark&font=Fira%20Code&ext=heatmap" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Razz0147&show_icons=true&theme=tokyonight)
@@ -111,8 +103,7 @@
 📄 **Resume:** (https://drive.google.com/file/d/1UJcLyhsF1cvIPXoiYAvJAq2dJFENDsAR/view?usp=sharing)  
 🌐 **LinkedIn:** https://www.linkedin.com/in/raj-budhathoki-0871392a2/  
 💻 **GitHub:** https://github.com/Razz0147  
-🧠 **LeetCode:** https://leetcode.com/u/rbudhathoki007/
-🧠 **Portfolio:** https://rajbudhathoki.netlify.app/
+🧠 **Portfolio:** https://budhathokiraj.netlify.app/
 
 ---
 
